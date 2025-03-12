@@ -7,5 +7,7 @@
 <img src="https://github.com/Otacilio07/projeto-readme/blob/master/asset/wecare--print.png?raw=true">
 <br>
 <p>E TAMBEM APRENDEMOS RESPONSIVIDADE PARA CELULARES E TABLETIS </p>
+<img src="https://github.com/Otacilio07/projeto-readme/blob/master/asset/wecare-responsividade.png?raw=true">
+
 
 
