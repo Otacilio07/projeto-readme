@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: 'Montserrat' serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0px 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-login {
+    background: #665AE1;
+    border-radius: 20.5px;
+    border: none;
+    width: 147px;
+    height:27px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.img-logo {
+    width: 568px;
+    height: 500px;
+    margin-left: 30px;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 121.9px;
+    color: #515151;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 70.7px;
+    color: #515151;
+}
+
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.26px;
+    color: #848484;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-main {
+    width: 147px;
+    height: 26px;
+    border-radius: 20.5px;
+    border: none;
+    background: #ADFF00;
+    font-weight: 700px;
+    font-size: 28px;
+    line-height: normal;
+    color: #000000;
+    cursor: pointer;
+    filter: drop-shadow( 0px 4px 4px rgba(0,0,0,0.25));
+margin-bottom: 30px;
+}
+@media screen and (max-width: 800px){
+    header {
+        display: none;
+}
+    .img-logo {
+        padding-left: 14px;
+        position: relative;
+        top: 193.72px;
+        width: 354px;
+        height: 256px;
+    }
+    
+    
+    }
+    section {
+        margin: 32px 99px 45px;
+        position: relative; 
+        top: 170px;
+        }
+    h1 { 
+font-size: 50px;
+font-weight: 900;
+line-height: normal;
+margin-top: 24px;
+
+
+    }
+    p {
+        display: none;
+    }
+    h2 {
+font-size: 30px; 
+font-weight: 500;
+line-height: normal;
+margin-left: 23px;
+margin-bottom: 17px;
+    }
+}
